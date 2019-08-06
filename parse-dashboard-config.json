@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "serverURL": "https://remindeio.herokuapp.com",
+      "appId": "124345322223",
+      "masterKey": "123211234345254563",
+      "appName": "reminder IO"
+    }
+  ],
+  "users": [
+    {
+      "user":"poncho",
+      "pass":"tikitaka" // change this to something secure
+    }
+  ]
+}myMasterKey
