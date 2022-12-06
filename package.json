@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "parse-dashboard": "^1.4.3"
+    "parse-dashboard": "^5.0.0"
   }
 }
